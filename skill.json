@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cutaneous-laser-speckle-contrast-imaging-lsci-skill",
+  "version": "1.0.0",
+  "description": "Calculates Laser Speckle Contrast (K), Blood Flow Index (BFI), and Laser Speckle Perfusion Units (LSPU) to evaluate cutaneous microcirculation.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "dermatology",
+    "microcirculation",
+    "lsci",
+    "laser-speckle",
+    "perfusion",
+    "blood-flow",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
